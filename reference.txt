@@ -1,0 +1,11 @@
+http://www.learndatasci.com/predicting-housing-prices-linear-regression-using-python-pandas-statsmodels/
+
+
+https://blog.trifork.com/2017/02/16/machine-learning-predicting-house-prices/
+
+https://datascienceplus.com/linear-regression-in-python-predict-the-bay-areas-home-prices/
+
+
+Introduction to Machine Learning with Python - Andres C. Muller & Sarah Guido
+
+Machine Learning with Python -  https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
